@@ -1,10 +1,6 @@
 # Maximal Scoring Sequences (MSS)
 Implementation of different Algorithms for the MSS Problem
 
-Certainly! Based on the image you provided, here's a simple README template for the task described:
-
----
-
 # Maximal Scoring Subsequence (MSS) Problem
 
 This repository contains implementations of various algorithms for solving the Maximal Scoring Subsequence (MSS) problem. The algorithms implemented include:
